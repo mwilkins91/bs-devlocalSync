@@ -1,0 +1,24 @@
+{
+  "name": "Bs-devLocal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwilkins91/bs-devlocalSync.git"
+  },
+  "keywords": [],
+  "author": "Mark Wilkins <contactme@markwilkins.co> (https://www.markwilkins.co)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwilkins91/bs-devlocalSync/issues"
+  },
+  "homepage": "https://github.com/mwilkins91/bs-devlocalSync#readme",
+  "dependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}
